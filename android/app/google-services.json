@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "967370550101",
+    "project_id": "signin-fd517",
+    "storage_bucket": "signin-fd517.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967370550101:android:5d96f663fc18f0f4f55ddc",
+        "android_client_info": {
+          "package_name": "com.santha.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967370550101-mrdkhaqmjgs73772v5pmhue2j5u2at41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santha.google_signin",
+            "certificate_hash": "0aaa0b5a2dcd186dfc7c9124d17ceb1496d80c41"
+          }
+        },
+        {
+          "client_id": "967370550101-rpij0qdt9jphoeaantm72lesctgfhser.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santha.google_signin",
+            "certificate_hash": "cefa1444c6b7eaeacb11ec19777e36a1a9d844c5"
+          }
+        },
+        {
+          "client_id": "967370550101-pt0juutdmnu74vf9stdqfon2p2fi3jf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1viVeQuzNqNzXh8HSyE4dEVLu3_XJbtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967370550101-pt0juutdmnu74vf9stdqfon2p2fi3jf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
